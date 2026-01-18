@@ -1,1 +1,1 @@
-{"allocations": {"TQQQ": 5.0, "UPRO": 10.0, "LABU": 10.0, "TNA": 5.0, "IBIT": 10.0, "JNUG": 10.0, "SOXL": 20.0, "TLT": 20.0, "TECL": 10.0}, "frequency": 5, "name": "Untitled Strategy 1", "period": "days"}
+{"allocations": {"TQQQ": 5.0, "UPRO": 10.0, "LABU": 10.0, "TNA": 5.0, "IBIT": 10.0, "JNUG": 10.0, "SOXL": 20.0, "TLT": 20.0, "TECL": 10.0}, "frequency": 5, "name": "ETF Rotation", "period": "days"}
